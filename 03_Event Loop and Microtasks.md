@@ -1,6 +1,9 @@
 # Exercise: Event Loop and Microtasks
 
 
+> Tags: JavaScript Event Loop Execution, JavaScript Under the Hood Working Mechanism
+
+
 **Question:**  
 Predict the output and explain the sequence: 
 

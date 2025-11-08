@@ -1,6 +1,9 @@
 # Exercise: Deep vs Shallow Copy
 
 
+> Tags: JSON, JavaScript Object Copying, Deep & Shallow Copy Logics, Object Value - References - and Memory Addresses  
+
+
 **Question:**  
 What’s the difference between shallow and deep copies in JS objects, and how do you perform each?  
 Also — predict the output below:

@@ -1,6 +1,9 @@
 # Exercise: Deep Comparison Between Two Objects 
 
 
+> Tag: Recursion, Logic Implementation, Datatypes Comparison Handling, Reference vs Value Equality, Object Key Iteration 
+
+
 **Goal:**  
 Write a function deepEqual(obj1, obj2) that returns true if both objects are deeply equal, and false otherwise.
 You cannot use JSON.stringify for comparison.

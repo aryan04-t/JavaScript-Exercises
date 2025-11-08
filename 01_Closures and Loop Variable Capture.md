@@ -1,6 +1,9 @@
 # Exercise: Closures and Loop Variable Capture
 
 
+> Tags: Closures, Loops, Let & Var Differences, Scopes 
+
+
 **Question:**  
 What will be the output of the following code and why?
 
