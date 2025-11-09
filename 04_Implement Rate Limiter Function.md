@@ -1,7 +1,7 @@
 # Exercise: Implement Rate Limiter Function 
 
 
-> Tags: Closures, Timing Logic, State Management 
+> Tags: Closures, Timing Logic, State Management, Sliding Window 
 
 
 **Goal:**  
